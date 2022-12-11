@@ -1,7 +1,7 @@
 # Stas Chekh
 ### Junior Frontend Developer  
 
-![avatarka](/logo.jpg)
+![avatarka](../../images/logo.jpg)
 
 ----------------------------------------------------
 ### contact information:
@@ -117,4 +117,4 @@
 
 --------------------------------------------------------------------
 
-![logo_rs_school](/rs_school.svg)
+![logo_rs_school](../../images/rs_school.svg)
